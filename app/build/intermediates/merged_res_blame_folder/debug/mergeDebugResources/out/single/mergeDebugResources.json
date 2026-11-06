@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_wb.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_wb.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_bb.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_bb.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_badge_bagus.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_badge_bagus.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_box_dark.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_box_dark.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_chevron_right.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_badge_sangat_baik.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_badge_sangat_baik.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_badge_plus.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_badge_plus.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_bk.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_bk.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_chevron_down.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_chevron_down.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_search.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_badge_minus.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_badge_minus.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_bp.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_bp.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_btn_analisa.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_btn_analisa.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_wn.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_wn.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_sukiwir_avatar.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_sukiwir_avatar.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_search_input.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_search_input.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_bn.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_bn.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_wq.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_wq.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_flag_id.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_flag_id.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\layout_item_game_history.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\layout\\item_game_history.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_badge_buku.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_badge_buku.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_br.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_br.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_avatar_outer.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_avatar_outer.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_wp.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_wp.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_bg_avatar_rounded.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/bg_avatar_rounded.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_wk.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_wk.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_user_placeholder.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_user_placeholder.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_wp.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_wp.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_pawn_avatar.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_pawn_avatar.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_nav_btn.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_nav_btn.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_bk.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_bk.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_search_btn.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_search_btn.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_play_white.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_play_white.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_wr.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_wr.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_bp.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_bp.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_badge_brilian.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_badge_brilian.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_chevron_left.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_chevron_left.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_rapid.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_rapid.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_bb.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_bb.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_winrate_chart.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_winrate_chart.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_wb.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_wb.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_br.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_br.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_badge_terlewat.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_badge_terlewat.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\layout_activity_analysis.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\layout\\activity_analysis.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_box_white.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_box_white.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_avatar_rounded.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_avatar_rounded.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_wq.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_wq.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_avatar_inner.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_avatar_inner.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_ic_badge_buku.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/ic_badge_buku.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_bg_rating_card.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\bg_rating_card.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_bq.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_bq.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_badge_terbaik.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_badge_terbaik.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_bn.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_bn.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_piece_wn.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\piece_wn.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_bullet.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_bullet.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_badge_blunder.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_badge_blunder.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_badge_kesalahan.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_badge_kesalahan.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_wk.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_wk.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\drawable_ic_blitz.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\drawable\\ic_blitz.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_bq.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_bq.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\.gradle\\daemon\\9.4.1\\com.example.analchess.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_piece_wr.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/piece_wr.xml"
+    },
+    {
+        "merged": "com.example.analchess.app-debug-34:/drawable_ic_badge_brilian.xml.flat",
+        "source": "com.example.analchess.app-main-36:/drawable/ic_badge_brilian.xml"
+    }
+]

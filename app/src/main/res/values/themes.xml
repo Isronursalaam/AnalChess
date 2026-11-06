@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.AnalChess" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#262522</item>
+        <item name="android:navigationBarColor">#262522</item>
+        <item name="android:windowBackground">#262522</item>
+    </style>
+
+    <style name="Theme.AnalChess" parent="Base.Theme.AnalChess" />
+</resources>
+

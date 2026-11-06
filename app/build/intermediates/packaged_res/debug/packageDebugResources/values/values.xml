@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_card">#2F2E2C</color>
+    <color name="bg_dark_box">#2E2D2A</color>
+    <color name="bg_main">#262522</color>
+    <color name="bg_nav_button">#353431</color>
+    <color name="board_dark">#779556</color>
+    <color name="board_light">#EBECD0</color>
+    <color name="chess_green">#73B845</color>
+    <color name="chess_red">#D9383A</color>
+    <color name="color_bagus">#5C8BB0</color>
+    <color name="color_blunder">#CA3431</color>
+    <color name="color_kesalahan">#F09426</color>
+    <color name="color_sangat_baik">#81B64C</color>
+    <color name="color_terbaik">#73B845</color>
+    <color name="color_terlewat">#E05347</color>
+    <color name="divider_color">#383734</color>
+    <color name="text_dark">#1E1E1E</color>
+    <color name="text_muted">#9E9E9E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#CCCCCC</color>
+    <string name="app_name">AnalChess</string>
+    <style name="Base.Theme.AnalChess" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#262522</item>
+        <item name="android:navigationBarColor">#262522</item>
+        <item name="android:windowBackground">#262522</item>
+    </style>
+    <style name="Theme.AnalChess" parent="Base.Theme.AnalChess"/>
+</resources>

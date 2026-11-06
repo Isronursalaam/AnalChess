@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Rounded light grey box background -->
+    <path
+        android:fillColor="#EAEAEA"
+        android:pathData="M4,0h40a4,4 0 0,1 4,4v40a4,4 0 0,1 -4,4h-40a4,4 0 0,1 -4,-4v-40a4,4 0 0,1 4,-4z" />
+    <!-- 3D shaded pawn shadow/body -->
+    <path
+        android:fillColor="#B5B5B5"
+        android:pathData="M24,9a6.5,6.5 0 1,0 0,13a6.5,6.5 0 1,0 0,-13z M18,23h12l-1.5,3h-9z M20,26l-2.5,9h13l-2.5,-9z M14,35h20l1.5,4h-23z M12.5,39h23v3h-23z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22.5,10a5,5 0 1,0 0,10a5,5 0 1,0 0,-10z M19,23.5h8l-1,2h-6z M20.5,26l-2,9h8l-1.5,-9z M15.5,35.5h15l1,3h-17z" />
+</vector>
+

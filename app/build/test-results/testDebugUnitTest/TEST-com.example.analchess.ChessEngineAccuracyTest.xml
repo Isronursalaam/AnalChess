@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.analchess.ChessEngineAccuracyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-11-06T13:49:38.029Z" hostname="LAPTOP-VBF7UU3H" time="4.802">
+  <properties/>
+  <testcase name="testAll48RealGamesPgnParsingAndFullAnalysis" classname="com.example.analchess.ChessEngineAccuracyTest" time="4.797"/>
+  <system-out><![CDATA[Found 48 PGNs in archive
+Summary: White(Sukiwir56) Acc=90, Black(its_sinn) Acc=68
+Brilian: W=0, B=0
+Bagus: W=2, B=2
+Terbaik: W=13, B=9
+SangatBaik: W=3, B=2
+Buku: W=1, B=3
+Kesalahan: W=1, B=1
+Terlewat: W=1, B=0
+Blunder: W=0, B=3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
